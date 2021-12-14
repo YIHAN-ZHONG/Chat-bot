@@ -1,5 +1,5 @@
 # Chat-bot
-To create a chat bot in discord with predefined commands to produce a graph as output.                             
+The objective of the project is to create a chat bot in discord with predefined commands to produce data visualization of the world happiness report as output.                             
 
 In order to do this, the following packages are needed: chart-studio , plotly , -U discord , -U python-dotenv, matplotlib, numpy and pandas. 
 
