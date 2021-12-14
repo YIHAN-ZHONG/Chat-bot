@@ -6,11 +6,7 @@ import json
 import chart_studio
 import chart_studio.plotly as py
 
-'''
-username = "Yihan_Zhong" # your username
-api_key = 'YgrFLCNEv3Q7bA0qrMlK' # your api key - go to profile > settings > regenerate key
-chart_studio.tools.set_credentials_file(username=username, api_key=api_key)
-'''
+
 #py.plot(fig, filename = 'gdp_per_cap', auto_open=True)
 
 def world_happiness_map():
